@@ -2,7 +2,7 @@
 
 
 
-<img src="https://images.unsplash.com/photo-1670332339459-fe5d2093167a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8Q0R3dXdYSkFiRXd8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" align="center" style="width: 200%, height:30%" />  <br/>
+<img src="https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" align="center" style="width: 200%" />  <br/>
   
 
 ### <div align="center">I'm Vivek, a full-stack  developer 👨‍💻recent graduate from  SRM Institute of Science and Technology 🚀</div>  
